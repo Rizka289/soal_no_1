@@ -1,5 +1,7 @@
 <?php
 require_once './constant.php';
+require_once './controller.php';
+
 class apps
 {
     
